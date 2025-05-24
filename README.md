@@ -135,7 +135,7 @@ Help translate Figura to your native language on [Weblate](https://translate.fig
 > 
 > Non-premium Minecraft accounts don't authenticate with Mojang, and Offline mode servers don't report working UUID's, as such can neither upload nor download Figura avatars
 
-
+ 
 ## Community Resources
 
 * Want to learn / get into Lua scripting?
